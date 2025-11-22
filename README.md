@@ -32,10 +32,10 @@
   -->
   <br>
 
-  <a href="https://medium.com/@dogu589">
+  <a href="https://medium.com/@dogukancaliskan">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="50" height="50">
   </a>
-   <a href="https://tryhackme.com/p/Dogu589">
+   <a href="https://tryhackme.com/p/intelligence">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8TVRfVzmWLMn27OB8IR7AH7FfE_QXb0y-g&s" alt="TryHackMe" width="50" height="50">
   </a>
 </p>
