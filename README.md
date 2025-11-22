@@ -40,7 +40,6 @@
   </a>
 </p>
         
-<h3 align="left">🔍Connect with me:Telegram @dogu589</h3>
 <p align="left">
 </p>
 <div align="left">
