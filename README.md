@@ -69,5 +69,5 @@
 
 <div align="center">
 
-  <img src="https://i.hizliresim.com/imsupg0.png" alt="Elon Musk Quote" width="900"/>
+  <img src="https://i.hizliresim.com/imsupg0.png" alt="Elon Musk Quote" width="1000"/>
 </div>
