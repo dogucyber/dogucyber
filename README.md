@@ -6,7 +6,6 @@
 <h3 align="center"><img src="https://media.giphy.com/media/mFr2bCGZkwclfVDKv6/giphy.gif" width="150"/></h3></h3>
 <h3 align="center"><img src="https://avatarfiles.alphacoders.com/357/357425.png" width="150"/></h3></h3>
 <h3 align="center">A pentester and cyber intelligence analyst in Turkey</h3>
-
 <div align="justify">
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
@@ -21,7 +20,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0048F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=The+heart+of+Cyber+Intelligence;Is+observing+people.">
     </samp>
   </p>
-      
+        <img src="https://i.hizliresim.com/imsupg0.png" alt="Elon Musk Quote" width="1000"/>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
 <p align="center">
