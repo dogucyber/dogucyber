@@ -20,7 +20,6 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0048F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=The+heart+of+Cyber+Intelligence;Is+observing+people.">
     </samp>
   </p>
-        <img src="https://i.hizliresim.com/imsupg0.png" alt="Elon Musk Quote" width="1000"/>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
 <p align="center">
